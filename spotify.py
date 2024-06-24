@@ -4,7 +4,7 @@ from telebot import types
 from requests.adapters import HTTPAdapter
 from requests.packages.urllib3.util.retry import Retry
 
-# إعداد البوت
+
 bot = telebot.TeleBot("7218709784:AAEUPP94r4WKTNZwbN1IzJzVZ5eXe8mvQ9s")
 
 # @GNA_I
